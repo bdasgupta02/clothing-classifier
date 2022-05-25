@@ -1,5 +1,5 @@
 # Clothing/fashion classifier
-#### A classifier that identifies the type of clothing through an image
+### A classifier model based on VGG19 that identifies the type of clothing through an image
 
 Uploading this repo because I did not find much sample code for high-resolution clothing classifiers. 
 
