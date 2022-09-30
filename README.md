@@ -3,4 +3,4 @@
 
 Uploading this repo because I did not find much sample code for high-resolution clothing classifiers. 
 
-Uses the dataset which can be found (here)[https://www.kaggle.com/agrigorev/clothing-dataset-full] 
+Uses the dataset which can be found [at this kaggle link](https://www.kaggle.com/agrigorev/clothing-dataset-full)
